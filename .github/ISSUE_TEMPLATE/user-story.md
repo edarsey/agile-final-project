@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-As a System Administrator, 
-I need the ability to remove the counter, 
-So that old or unneeded counters don't clutter the app.
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
    
  ### Details and Assumptions
  * [document what you know]
